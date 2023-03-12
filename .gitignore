@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Rock-Paper-Scissors (Java)/task/build/
+/Rock-Paper-Scissors (Java)/task/out/
+/Rock-Paper-Scissors (Java)/task/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/String/Extracting a substring/out/
+/Topics/String/Extracting a substring/out/production/classes/
